@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Force vConsole
+// @name        DevTools - Force vConsole
 // @description 모든 사이트에서 vConsole 로드
 // @match       *://*/*
 // @grant       none
